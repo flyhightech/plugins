@@ -15,7 +15,15 @@ License: GPL2
 
 // Shortcode 
 
+function slb_form( $args, $content="" ) {
 
+    // Setup our output variable  
+
+    $output = '
+
+
+    ';
+}
 
 
 
